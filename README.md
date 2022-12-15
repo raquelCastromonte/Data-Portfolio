@@ -27,8 +27,8 @@ This project was performed at the University of Wisconsin - La Crosse as a McNai
 View abstract [here](https://ir.library.illinoisstate.edu/beer/2021/ts2/8/).
 
 **Collaborators:** 
-- James Peirce, University of Wisconsin - La Crosse; River Studies Center, La Crosse, WI
-- Gregory Sandland, University of Wisconsin - La Crosse; River Studies Center, La Crosse, WI
+1. James Peirce, University of Wisconsin - La Crosse; River Studies Center, La Crosse, WI
+2. Gregory Sandland, University of Wisconsin - La Crosse; River Studies Center, La Crosse, WI
 
 
 -	Built on existing integral projection model to implement a food quality parameter on gizzard shad population.
