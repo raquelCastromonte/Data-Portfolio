@@ -1,2 +1,2 @@
-# Data_Analytics_Projects
+# Data Analytics Portfolio
 A culmination of all my data analytics projects
