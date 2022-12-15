@@ -11,7 +11,7 @@ All projects are in chronological order
 - Developed an action plan to increase brand awareness in the company’s social media and search engine optimization for their website by using Google Ads or Bing Ads.
 -	Successful scheduled communication between group members and client to transparentize client’s goals, project purpose, and work progress.
 
-## Report| “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
+## Report | “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
 
 **Collaborators:** Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
