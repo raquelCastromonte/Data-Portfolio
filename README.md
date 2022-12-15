@@ -8,3 +8,5 @@ Collaborators: Raquel Castromonte, Caitlyn Johnson, Alex , Dana Gong
 •	Analyzed housing crisis in New York City as a team to investigate relationship between rent burden and racial minority status across all boroughs.
 •	Supplied my team an OLS model on the relationship between percent rent burden and percent minority of each borough.
 •	Retrieved, organized, and cleaned open-source data on rent instability in NYC using SQL, R, Python.
+
+Link to project repository: 
