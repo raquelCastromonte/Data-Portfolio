@@ -3,7 +3,7 @@ All projects are in chronological order
 
 ## Presentation | “RootedIn: A Wellness Company Data Analysis” 
 
-**Collaborators:** 16 members in divided in four subteams: Site Traffic and User Engagement using Google Analytics<sup>1</sup>, Facebook and Instagram Analysis, Email Analysis, Tiktok Analysis.
+**Collaborators:** 16 total members divided into four subteams: Site Traffic and User Engagement using Google Analytics<sup>1</sup>, Facebook and Instagram Analysis, Email Analysis, Tiktok Analysis.
 
 <sup>1</sup> Team consists of Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
@@ -40,7 +40,7 @@ View abstract [here](https://ir.library.illinoisstate.edu/beer/2021/ts2/8/).
 ## [Report](https://github.com/cailtyn-caj96/info-2950/blob/main/final/finalproject.ipynb) “Rent Inequality in NYC”
 This project was performed for INFO 2950: Introduction to Data Science with Professor Matthew Wilkens in spring 2021. View project repository [here](https://github.com/cailtyn-caj96/info-2950).
 
-**Collaborators**: Raquel Castromonte, Caitlyn Johnson, Alex Kim, Dana Gong [all are undergraduate students at Cornell University in the spring of 2021]
+**Collaborators**: Raquel Castromonte, Caitlyn Johnson, Alex Kim, Dana Gong [all are undergraduate students at Cornell University during the spring of 2021]
 
 -	Analyzed housing crisis in New York City as a team to investigate relationship between rent burden and racial minority status across all boroughs.
 -	Supplied my team an OLS model on the relationship between percent rent burden and percent minority of each borough.
