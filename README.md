@@ -4,7 +4,7 @@ Projects are in latest to earliest.
 ## Presentation | “RootedIn: A Wellness Company Data Analysis” 
 *Project Completion Date:* December 8, 2022
 
-**Collaborators:** 16 total members divided into four subteams: Site Traffic and User Engagement using Google Analytics<sup>1</sup>, Facebook and Instagram Analysis, Email Analysis, Tiktok Analysis.
+Our final project for COOP Fall 2022 was a client project. Our client [RootedIn](https://berootedin.com/) wanted to analyze their insights on their social media and website traffic. There were 16 total members divided into four subteams: Site Traffic and User Engagement using Google Analytics<sup>1</sup>, Facebook and Instagram Analysis, Email Analysis, Tiktok Analysis.
 
 <sup>1</sup> Team consists of Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
