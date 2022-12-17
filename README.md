@@ -1,5 +1,5 @@
 # Raquel's Data Analytics Portfolio
-Projects are in latest to earliest.
+Projects are from latest to earliest.
 
 ## Collaborative Projects
 1. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
