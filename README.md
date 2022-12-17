@@ -1,6 +1,12 @@
 # Raquel's Data Analytics Portfolio
 Projects are in latest to earliest.
 
+## Collaborative Projects
+1. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
+2. [Eviction: An Insight on NYC Evictions Between 2018 - 2022](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report--eviction-an-insight-on-nyc-evictions-between-2018---2022)
+3. [Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#poster-incorporating-chlorophyll-a-levels-into-a-model-of-gizzard-shad-in-the-upper-mississippi-river)
+4. [Rent Inequality in NYC](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report-rent-inequality-in-nyc)
+
 ## Presentation | “RootedIn: A Wellness Company Data Analysis” 
 *Project Completion Date:* December 8, 2022
 
@@ -12,7 +18,7 @@ Our final project for COOP Fall 2022 was a client project. Our client [RootedIn]
 - Developed an action plan to increase brand awareness in the company’s social media and search engine optimization for their website by using Google Ads or Bing Ads.
 -	Successful scheduled communication between group members and client to transparentize client’s goals, project purpose, and work progress.
 
-## Report | “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
+## [Report](https://github.com/raquelCastromonte/NYC_evictions/blob/main/%5BCOOP%5D%20NYC%20Evictions%20Presentation.pdf) | “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
 *Project Completion Date:* October 13, 2022
 
 As a COOP aprentice, my team and I explored the public New York City Eviction Data. Link to our project repository [here](https://github.com/raquelCastromonte/NYC_evictions).
@@ -25,7 +31,7 @@ As a COOP aprentice, my team and I explored the public New York City Eviction Da
 -	Explored eviction laws to explain outlying data and presented findings to possible stakeholders.
 
 
-## [Poster](https://www.linkedin.com/in/raquel-castromonte/overlay/1635499978339/single-media-viewer/) “Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River”  
+## [Poster](https://www.linkedin.com/in/raquel-castromonte/overlay/1635499978339/single-media-viewer/) | “Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River”  
 *Project Completion Date:* August 4, 2021
 
 This project was performed at the University of Wisconsin - La Crosse as a McNair Scholar and NSF Undergraduate Researcher.
@@ -42,7 +48,7 @@ View abstract [here](https://ir.library.illinoisstate.edu/beer/2021/ts2/8/).
 -	Engaged in virtual and in-person conferences presenting my research as a poster or oral presentation. 
 
 
-## [Report](https://github.com/cailtyn-caj96/info-2950/blob/main/final/finalproject.ipynb) “Rent Inequality in NYC”
+## [Report](https://github.com/cailtyn-caj96/info-2950/blob/main/final/finalproject.ipynb) | “Rent Inequality in NYC”
 This project was performed for INFO 2950: Introduction to Data Science with Professor Matthew Wilkens in spring 2021. View project repository [here](https://github.com/cailtyn-caj96/info-2950).
 *Project Completion Date:* May 12, 2021
 
