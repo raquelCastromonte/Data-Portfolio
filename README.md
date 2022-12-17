@@ -1,7 +1,8 @@
 # Raquel's Data Analytics Portfolio
-All projects are in chronological order
+Projects are in latest to earliest.
 
 ## Presentation | “RootedIn: A Wellness Company Data Analysis” 
+*Project Completion Date:* December 8, 2022
 
 **Collaborators:** 16 total members divided into four subteams: Site Traffic and User Engagement using Google Analytics<sup>1</sup>, Facebook and Instagram Analysis, Email Analysis, Tiktok Analysis.
 
@@ -12,6 +13,7 @@ All projects are in chronological order
 -	Successful scheduled communication between group members and client to transparentize client’s goals, project purpose, and work progress.
 
 ## Report | “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
+*Project Completion Date:* October 13, 2022
 
 As a COOP aprentice, my team and I explored the public New York City Eviction Data. Link to our project repository [here](https://github.com/raquelCastromonte/NYC_evictions).
 
@@ -23,8 +25,9 @@ As a COOP aprentice, my team and I explored the public New York City Eviction Da
 -	Explored eviction laws to explain outlying data and presented findings to possible stakeholders.
 
 
-
 ## [Poster](https://www.linkedin.com/in/raquel-castromonte/overlay/1635499978339/single-media-viewer/) “Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River”  
+*Project Completion Date:* August 4, 2021
+
 This project was performed at the University of Wisconsin - La Crosse as a McNair Scholar and NSF Undergraduate Researcher.
 View abstract [here](https://ir.library.illinoisstate.edu/beer/2021/ts2/8/).
 
@@ -41,6 +44,7 @@ View abstract [here](https://ir.library.illinoisstate.edu/beer/2021/ts2/8/).
 
 ## [Report](https://github.com/cailtyn-caj96/info-2950/blob/main/final/finalproject.ipynb) “Rent Inequality in NYC”
 This project was performed for INFO 2950: Introduction to Data Science with Professor Matthew Wilkens in spring 2021. View project repository [here](https://github.com/cailtyn-caj96/info-2950).
+*Project Completion Date:* May 12, 2021
 
 **Collaborators**: Raquel Castromonte, Caitlyn Johnson, Alex Kim, Dana Gong [all are undergraduate students at Cornell University during the spring of 2021]
 
