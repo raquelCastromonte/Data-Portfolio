@@ -13,9 +13,9 @@ All projects are in chronological order
 
 ## Report | “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
 
-**Collaborators:** Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
+As a COOP aprentice, my team and I explored the public New York City Eviction Data. Link to our project repository [here](https://github.com/raquelCastromonte/NYC_evictions).
 
-Link to repository [here](https://github.com/raquelCastromonte/NYC_evictions)
+**Collaborators:** Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
 -	Explored and cleaned New York City’s public dataset on evictions using SQL and Microsoft Excel to facilitate analysis and visualization.
 -	Collaborated with teammates to identify neighborhoods and years with the most evictions using python.
