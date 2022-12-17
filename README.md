@@ -15,6 +15,8 @@ All projects are in chronological order
 
 **Collaborators:** Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
+Link to repository [here](https://github.com/raquelCastromonte/NYC_evictions)
+
 -	Explored and cleaned New York City’s public dataset on evictions using SQL and Microsoft Excel to facilitate analysis and visualization.
 -	Collaborated with teammates to identify neighborhoods and years with the most evictions using python.
 -	Produced data visualizations that mapped evictions by neighborhoods, boroughs, and by demographics such as race.
