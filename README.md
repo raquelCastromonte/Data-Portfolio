@@ -1,7 +1,7 @@
 # Raquel's Data Analytics Portfolio
 Projects are from latest to earliest.
 
-## Tableau [link](https://public.tableau.com/app/profile/raquel.castromonte5615)
+## My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615) Account
 
 ## Collaborative Projects
 1. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
