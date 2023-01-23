@@ -1,4 +1,4 @@
-# Raquel's Data Analytics Portfolio
+# Raquel's Data Portfolio
 Projects are from latest to earliest.
 
 ## My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615) Account
