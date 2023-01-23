@@ -2,7 +2,7 @@
 Projects are from latest to earliest.
 
 ## Personal Projects
-My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615) Account
+My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615)
 
 ## Collaborative Projects
 1. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
