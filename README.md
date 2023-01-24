@@ -17,9 +17,9 @@ Our final project for COOP Fall 2022 was a client project. Our client [RootedIn]
 
 <sup>1</sup> Team consists of Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
-- Conduced a data analysis report on the success and shortcomings of the company using Google Analytics for insights and Microsoft Excel for visualizations. 
-- Developed an action plan to increase brand awareness in the company’s social media and search engine optimization for their website by using Google Ads or Bing Ads.
--	Successful scheduled communication between group members and client to transparentize client’s goals, project purpose, and work progress.
+- Examined company’s site traffic and audience engagement using Google Ads, Google Analytics, SEO, and spreadsheets functions. 
+- Created an action plan that includes quality keywords for more organic traffic, seasonal sale codes for audience retention, and site sign-up forms that will increase site conversions by 25%. 
+- Organized campaign data using pivot tables and dashboards on PowerBI. 
 
 ## [Report](https://github.com/raquelCastromonte/NYC_evictions/blob/main/%5BCOOP%5D%20NYC%20Evictions%20Presentation.pdf) | “Eviction: An Insight on NYC Evictions Between 2018 - 2022” 
 *Project Completion Date:* October 13, 2022
@@ -28,10 +28,9 @@ As a COOP aprentice, my team and I explored the public New York City Eviction Da
 
 **Collaborators:** Raquel Castromonte, Elizabeth Tum, Alexandra Reyes, Andre Cunalata.
 
--	Explored and cleaned New York City’s public dataset on evictions using SQL and Microsoft Excel to facilitate analysis and visualization.
--	Collaborated with teammates to identify neighborhoods and years with the most evictions using python.
--	Produced data visualizations that mapped evictions by neighborhoods, boroughs, and by demographics such as race.
--	Explored eviction laws to explain outlying data and presented findings to possible stakeholders.
+- Cleaned New York City’s public dataset on evictions using SQL and Excel to ease data analysis. 
+- Produced data visualizations that mapped evictions by neighborhoods, boroughs, and by demographics such as race and age in Python (matplotlib). 
+- Read NYC eviction laws to explain correlations of neighborhood composition, evictions over time, and eviction moratorium due to COVID-19. 
 
 
 ## [Poster](https://www.linkedin.com/in/raquel-castromonte/overlay/1635499978339/single-media-viewer/) | “Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River”  
@@ -44,11 +43,10 @@ View abstract [here](https://ir.library.illinoisstate.edu/beer/2021/ts2/8/).
 1. James Peirce, University of Wisconsin - La Crosse; River Studies Center, La Crosse, WI
 2. Gregory Sandland, University of Wisconsin - La Crosse; River Studies Center, La Crosse, WI
 
-
--	Built on existing integral projection model to implement a food quality parameter on gizzard shad population.
--	Analyzed and visualized projection models using R and python.
--	Worked as a team to extract parametric data from papers, graphs, and long-term open-source databases. 
--	Engaged in virtual and in-person conferences presenting my research as a poster or oral presentation. 
+- Worked on an integral projection model (IPM) to visualize a fish species' future population demographics at equilibrium. 
+- Implement a food quality parameter on the model to further describe population dynamics. 
+- Worked as a team to extract parametric data from papers, graphs, and long-term open-source databases.  
+- Engaged in virtual and in-person conferences presenting my research as a poster or oral presentation.  
 
 
 ## [Report](https://github.com/cailtyn-caj96/info-2950/blob/main/final/finalproject.ipynb) | “Rent Inequality in NYC”
