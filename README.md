@@ -4,6 +4,11 @@ Projects are from latest to earliest.
 ## Personal Projects
 My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615)
 
+## [Report](https://github.com/raquelCastromonte/Cyclistic_Analysis_Report) | Cyclistic Bike Program
+- Used python to create visuals and simple statistics on the customer base of Cyclistic's Bike Program.
+- Goal was to understand the different behaviors between casual users and annual members of the bike program in Chicago.
+- Submitted recommendations to influence casual users to switch to annual members.
+
 ## Collaborative Projects
 1. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
 2. [Eviction: An Insight on NYC Evictions Between 2018 - 2022](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report--eviction-an-insight-on-nyc-evictions-between-2018---2022)
