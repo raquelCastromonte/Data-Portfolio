@@ -1,19 +1,25 @@
 # Raquel's Data Portfolio
 Projects are from latest to earliest.
 
+# Table of Contents
+1. [Cyclistic Bike Program Analysis](https://github.com/raquelCastromonte/Cyclistic_Analysis_Report)
+2. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
+3. [Eviction: An Insight on NYC Evictions Between 2018 - 2022](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report--eviction-an-insight-on-nyc-evictions-between-2018---2022)
+4. [Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#poster-incorporating-chlorophyll-a-levels-into-a-model-of-gizzard-shad-in-the-upper-mississippi-river)
+5. [Rent Inequality in NYC](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report-rent-inequality-in-nyc)
+
 # Personal Projects
 My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615)
 
-## [Report](https://github.com/raquelCastromonte/Cyclistic_Analysis_Report) | Cyclistic Bike Program
+## [Report](https://github.com/raquelCastromonte/Cyclistic_Analysis_Report) | Cyclistic Bike Program Analysis
+
+*Project Completion Date: February 13, 2023
+
 - Used python to create visuals and simple statistics on the customer base of Cyclistic's Bike Program.
 - Goal was to understand the different behaviors between casual users and annual members of the bike program in Chicago.
 - Submitted recommendations to influence casual users to switch to annual members.
 
 # Collaborative Projects
-1. [RootedIn: A Wellness Company Data Analysis](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#presentation--rootedin-a-wellness-company-data-analysis)
-2. [Eviction: An Insight on NYC Evictions Between 2018 - 2022](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report--eviction-an-insight-on-nyc-evictions-between-2018---2022)
-3. [Incorporating Chlorophyll-a Levels into a Model of Gizzard Shad in the Upper Mississippi River](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#poster-incorporating-chlorophyll-a-levels-into-a-model-of-gizzard-shad-in-the-upper-mississippi-river)
-4. [Rent Inequality in NYC](https://raquelcastromonte.github.io/Data-Analytics-Portfolio/#report-rent-inequality-in-nyc)
 
 ## Presentation | “RootedIn: A Wellness Company Data Analysis” 
 *Project Completion Date:* December 8, 2022
