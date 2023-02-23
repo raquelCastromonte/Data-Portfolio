@@ -12,7 +12,7 @@ My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615)
 
 ## [Report](https://github.com/raquelCastromonte/Cyclistic_Analysis_Report) | Cyclistic Bike Program Analysis
 
-*Project Completion Date: February 13, 2023
+*Project Completion Date:* February 13, 2023
 
 - Used python to create visuals and simple statistics on the customer base of Cyclistic's Bike Program.
 - Goal was to understand the different behaviors between casual users and annual members of the bike program in Chicago.
