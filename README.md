@@ -1,5 +1,4 @@
 # Raquel's Data Portfolio
-Projects are from latest to earliest.
 
 # Table of Contents
 1. [Cyclistic Bike Program Analysis](https://github.com/raquelCastromonte/Cyclistic_Analysis_Report)
@@ -18,6 +17,8 @@ My [Tableau](https://public.tableau.com/app/profile/raquel.castromonte5615)
 - Used python to create visuals and simple statistics on the customer base of Cyclistic's Bike Program.
 - Goal was to understand the different behaviors between casual users and annual members of the bike program in Chicago.
 - Submitted recommendations to influence casual users to switch to annual members.
+
+## [GIS Layouts](https://github.com/raquelCastromonte/GIS-Class) | PLSC 2200 Intro to GIS
 
 # Collaborative Projects
 
